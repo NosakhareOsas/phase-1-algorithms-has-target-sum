@@ -13,6 +13,9 @@ function hasTargetSum(array, target) {
 
 /* 
   Write the Big O time complexity of your function here
+  time complexity is n*n because i iterared twice ======> O(n*n)
+  space complexity is n because i didn't create new data structure, 
+  so we have just the input array =========> O(n)
 */
 
 
